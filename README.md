@@ -39,7 +39,7 @@
 - 💅 Active community member of: **IETE**
 - 🌱 Learning more about and studying: **Open Source, CS Algorithms**
 - 💬 Ping me about:  **Internet of Things**, **Events**, **Fun**
-- 📫 Reach me asap: <a href="https://www.instagram.com/bshivakumar_/>Instagram</a> or bshivakumar.me@gmail.com
+- 📫 Reach me asap: <a href="https://www.instagram.com/bshivakumar_>Instagram</a> or bshivakumar.me@gmail.com
 - 💜 Interests: huge Technology fan,Yogi , foodie, Moon Lover
 - 😄 Passionate about accessibility and committed to a web that works for everyone.
 - 🦋 I love to build new connections , to have a new interactions & exchange of thoughts across the world.
@@ -49,7 +49,7 @@
 #### Find me around the web 🌎:
 - 💼 Connect on <a href="https://www.linkedin.com/in/bshivakumar1/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/h3e8pvwqy6p9e1vxi5l509lfb">Spotify</a>
-- 🌐 Updating my personal posts on <a href="https://www.instagram.com/bshivakumar_/">bshivakumar(instagram).com</a>
+- 🌐 Updating my personal posts on <a href="https://www.instagram.com/bshivakumar_/">bshivakumar.com</a>
 
 
 ---
