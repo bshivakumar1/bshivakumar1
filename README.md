@@ -38,9 +38,9 @@
 - 🌍 I support and volunteer with: **IETE Student Chapter**
 - 💅 Active community member of: **IETE**
 - 🌱 Learning more about and studying: **Open Source, CS Algorithms**
-- 💬 Ping me about:  **Internet of Things**, **Events**, **Fun**
+- 💬 Ping me about:  **Any Help**,**Internet of Things**, **Real Time Projects Colab**
 - 📫 Reach me : <a href="https://www.instagram.com/bshivakumar_/">Instagram</a> or bshivakumar.me@gmail.com
-- 💜 Interests: huge Technology fan ,Yogi ,foodie ,Moon Lover
+- 💜 Interests: Huge Technology fan ,Yogi ,Foodie ,Moon Lover
 - 😄 Passionate about accessibility and committed to a web that works for everyone.
 - 🦋 I love to build new connections , to have a new interactions & exchange of thoughts across the world.
 
