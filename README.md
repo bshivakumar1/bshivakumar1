@@ -31,7 +31,7 @@
 
 
 - 🏢 I am final year Engineering Student pursuing Btech in Electronics & Communication Engineering at Anurag group of Institutions.
-- 💻 I love Technology very much. I believe technology upgrade people's life and solve social problem easily.
+- 💻 I love Technology very much. I believe technology upgrade people's life and solve problems easily.
 - 🚀 I love Electronics very much. Being Electronics and Communication Engineer, I love to talk with Arduino and sensors. This interest take me to the world of IOT - Internet of Things.
 - ⚙️ I love analysis and predicting everything around me, This interest in analytics bought me to the world of Data Science.
 - 😎 I love working with communities. I cherish the idea of bringing like-minded people together for a common interest.
