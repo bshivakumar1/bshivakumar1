@@ -35,7 +35,7 @@
 - 🚀 I love Electronics very much. Being Electronics and Communication Engineer, I love to talk with Arduino and sensors. This interest take me to the world of IOT - Internet of Things.
 - ⚙️ I love analysis and predicting everything around me, This interest in analytics bought me to the world of Data Science.
 - 😎 I love working with communities. I cherish the idea of bringing like-minded people together for a common interest.
-- 🌍 I support and volunteer with: **IETE Student Chapter**
+- 🌍 Student President of **IETE Student Chapter**,Anurag group of Institutions,Hyderabad.
 - 💅 Active community member of: **IETE**
 - 🌱 Learning more about and studying: **Open Source, CS Algorithms**
 - 💬 Ping me about:  **Any Help**,**Internet of Things**, **Real Time Projects Colab**
