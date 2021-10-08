@@ -41,7 +41,7 @@
 - 💬 Ping me about:  **Any Help**,**Internet of Things**, **Real Time Projects Colab**
 - 📫 Reach me : <a href="https://www.instagram.com/bshivakumar_/">Instagram</a> or bshivakumar.me@gmail.com
 - 💜 Interests: Huge Technology fan ,Yogi ,Foodie ,Moon Lover
-- 😄 Passionate about accessibility and committed to a web that works for everyone.
+- 😄 Passionate about solving real time problems and build projects that works for everyone.
 - 🦋 I love to build new connections , to have a new interactions & exchange of thoughts across the world.
 
                         So, Connect -> Interact -> Learn -> Grow-> Evolve.
